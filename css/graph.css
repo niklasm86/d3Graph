@@ -1,0 +1,54 @@
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+}
+
+.line {
+    fill: none;
+    stroke: blue;
+    stroke-width: 1px;
+}
+
+.line2 {
+    fill: none;
+    stroke: #999;
+    stroke-width: 1px;
+}
+
+.tick text {
+    font-size: 12px;
+}
+
+.tick line {
+    opacity: 0.2;
+
+}
+
+.tick-hover {
+    opacity: 0.4;
+}
+
+.areaFill {
+  fill: lightsteelblue;
+  opacity: 0.3;
+}
+
+.areaFill2 {
+  fill: #e0e0e0;
+  opacity: 0.3;
+
+}
+
+.gridY line, .gridX line {
+  stroke: grey;
+  stroke-opacity: 1;
+  shape-rendering: crispEdges;
+  stroke-width: 1px;
+  opacity: 0.3;
+
+}
+
+.gridY path, .gridX path {
+  stroke-width: 0px;
+}

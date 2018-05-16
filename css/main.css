@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #f8f8f8;
+}
+
+.wrapper{
+    width: 1000px;
+    margin:0 auto;
+}
+
+.inputs label{
+    display: block;
+}
+
+.inputs {
+    margin:60px 0 0 150px;
+}
+
+.svg-container{
+    /*margin-top: 50px;*/
+}
+
+
